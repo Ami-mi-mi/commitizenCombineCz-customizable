@@ -17,3 +17,6 @@
 
 ### 根目录下创建 .cz-config.js
 - 通过module.exports = { }配置types, scopes,messges,skipQuestionsubjectLimit
+
+### 详细配置
+- https://juejin.cn/post/7094919796373848071
