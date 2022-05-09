@@ -1,0 +1,6 @@
+#vscode
+.history
+.vscode/
+
+#development
+node_modules
