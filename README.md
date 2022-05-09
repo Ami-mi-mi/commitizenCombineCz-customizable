@@ -6,3 +6,14 @@
 
 ### git cz 代替 git commit
 - git cz
+
+### 安装cz-customizable
+- npm install cz-customizable --save-dev
+
+### package.json commitizen path修改
+- "commitizen": {
+-    "path": "node_modules/cz-customizable"
+-  }
+
+### 根目录下创建 .cz-config.js
+- 通过module.exports = { }配置types, scopes,messges,skipQuestionsubjectLimit
